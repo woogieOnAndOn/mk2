@@ -1,0 +1,8 @@
+[submodule "be-mk2"]
+	path = be-mk2
+	url = ../be-mk2.git
+	branch = main
+[submodule "fe-mk2"]
+	path = fe-mk2
+	url = ../fe-mk2.git
+	branch = main
