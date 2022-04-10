@@ -1,8 +1,12 @@
-[submodule "be-mk2"]
-	path = be-mk2
-	url = ../be-mk2.git
+[submodule "be-nodeJs"]
+	path = be-nodeJs
+	url = ../be-nodeJs.git
 	branch = main
-[submodule "fe-mk2"]
-	path = fe-mk2
-	url = ../fe-mk2.git
+[submodule "fe-react"]
+	path = fe-react
+	url = ../fe-react.git
+	branch = main
+[submodule "be-Django"]
+	path = be-Django
+	url = ../be-Django.git
 	branch = main
