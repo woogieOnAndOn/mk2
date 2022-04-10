@@ -10,3 +10,7 @@
 	path = fe-react
 	url = ../fe-react.git
 	branch = main
+[submodule "be-spring"]
+	path = be-spring
+	url = ../be-spring.git
+	branch = main
